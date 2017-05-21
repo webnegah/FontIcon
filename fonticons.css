@@ -1,0 +1,231 @@
+@font-face {
+	src : url('../fonts/icons/WebnegahIcons.eot') ;
+	src : url('../fonts/icons/WebnegahIcons.eot?#iefix') format('embedded-opentype') ,  /* IE6-8 */
+		 url('../fonts/icons/WebnegahIcons.woff') format('woff') ,  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+		 url('../fonts/icons/WebnegahIcons.ttf') format('truetype') ;
+	font-family : WebnegahIcons ;
+}
+
+* {
+	margin : 0 ;
+	padding : 0 ;
+}
+#wrapper div {
+	margin : 4px ;
+	width : 100px ;
+	transition : 0.3s ;
+	text-align : center ;
+	border-radius : 5px ;
+	display : inline-block ;
+	border : 1px solid #000 ;
+}
+	#wrapper div:hover {
+		transition : 0.1s ;
+		border-color : transparent ;
+		box-shadow : 0 0 3px 5px #bbb ;
+	}
+span[class^="icon_"] {
+	cursor : pointer ;
+	font-size : 80px ;
+	border : 1px solid #000 ;
+	font-family : WebnegahIcons ;	
+}
+	span[class^="icon_"]:hover {
+		color : #fff ;
+		background-color : #00f ;
+		border-color : orange ;
+	}
+span[class|="label"] {
+	font-size : 14px ;
+}
+.icon_fun_zero::before {
+	content : "\e801" ;
+}
+
+.icon_fun_one::before {
+	content : "\e802" ;
+}
+.icon_fun_two::before {
+	content : "\e803" ;
+}
+.icon_fun_three::before {
+	content : "\e804" ;
+}
+.icon_fun_four::before {
+	content : "\e805" ;
+}
+.icon_fun_five::before {
+	content : "\e806" ;
+}
+.icon_fun_six::before {
+	content : "\e807" ;
+}
+.icon_fun_seven::before {
+	content : "\e808" ;
+}
+.icon_fun_eight::before {
+	content : "\e809" ;
+}
+.icon_fun_nine::before {
+	content : "\e810" ;
+}
+.icon_digital_zero::before {
+	content : "\e811" ;
+}
+.icon_digital_one::before {
+	content : "\e812" ;
+}
+.icon_digital_two::before {
+	content : "\e813" ;
+}
+.icon_digital_three::before {
+	content : "\e814" ;
+}
+.icon_digital_four::before {
+	content : "\e815" ;
+}
+.icon_digital_five::before {
+	content : "\e816" ;
+}
+.icon_digital_six::before {
+	content : "\e817" ;
+}
+.icon_digital_seven::before {
+	content : "\e818" ;
+}
+.icon_digital_eight::before {
+	content : "\e819" ;
+}
+.icon_digital_nine::before {
+	content : "\e820" ;
+}
+.icon_deil_1::before {
+	content : "\e821" ;
+}
+.icon_deil_2::before {
+	content : "\e822" ;
+}
+.icon_deil_3::before {
+	content : "\e823" ;
+}
+.icon_linux_essential::before {
+	content : "\e824" ;
+}
+.icon_linux_lpic_1::before {
+	content : "\e825" ;
+}
+.icon_linux_lpic_2::before {
+	content : "\e826" ;
+}
+.icon_ashamed::before {
+	content : "\e827" ;
+}
+.icon_happy::before {
+	content : "\e828" ;
+}
+.icon_sorry::before {
+	content : "\e829" ;
+}
+.icon_angry::before {
+	content : "\e830" ;
+}
+.icon_serious::before {
+	content : "\e831" ;
+}
+.icon_ _ {
+	content : "\e832" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}
+.icon_ _ {
+	content : "\e8" ;
+}.icon_ _ {
+	content : "\e8" ;
+}.icon_ _ {
+	content : "\e8" ;
+}.icon_ _ {
+	content : "\e8" ;
+}.icon_ _ {
+	content : "\e8" ;
+}.icon_ _ {
+	content : "\e8" ;
+}
